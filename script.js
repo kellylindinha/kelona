@@ -25,3 +25,6 @@ const perguntas = [
     ],
   },
 ];
+function aleatorio(lista) {
+
+}
